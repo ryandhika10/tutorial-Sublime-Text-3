@@ -1,0 +1,59 @@
+ >> KONFIGURASI LINGKUNGAN SUBLIME TEXT <<
+
+
+ >> Ada 2 mode pada saat koding : multiple layout dan distraction free mode
+
+ >> Shortcut utk berpindah antar tab yg terbuka : Ctrl + tab
+
+ >> Cara menerapkan multiple layout : 
+
+    1. Klik menu View
+
+    2. Klik menu Layout
+
+    3. Pilih berapa kolom/baris yg ingin dibuat
+
+    4. Drag and drop tab ke kolom kedua utk menampilkan tab tersebut
+
+ >> Membuat 2 kolom, tetapi di kolom kedua terbagi menjadi 2 baris : 
+
+    1. Ikuti cara sebelumnya sampai tahap ke 2
+
+    2. Pilih opsi 2 kolom
+
+    3. Klik menu view Kembali
+
+    4. Klik menu Groups
+
+    5. Pilih Max Columns: 2
+
+    6. Ke menu Groups lagi, dan pilih New Group
+
+ >> Shortcut utk mengubah layout : 
+
+    1. Alt + Shift + (1-4) : Mengubah tampilan menjadi 1 hingga 4 kolom
+
+    2. Alt + Shift + 5 : Mengubah tampilan dibagi menjadi 4/ Grid (2 baris dan 
+			 2 kolom)
+
+    3. Alt + Shift + (8-9) : Mengubah tampilan menjadi 2 hingga 3 baris
+
+ >> Shortcut utk memindahkan file ke kolom/baris baru : Ctrl + Shift + Angka 
+							(berdasarkan urutan 
+							layout dari kiri ke 
+							kanan)
+
+ >> Shortcut utk memindahkan kursor ke kolom lain : Ctrl + Angka (berdasarkan 
+						    urutan layout dari kiri ke 
+						    kanan)
+
+ >> Cara menerapkan distraction free mode : 
+
+    1. Klik menu View
+
+    2. Pilih opsi Enter Distraction Free Mode
+
+ >> Hasilnya, semua sidebar hilang, yg kelihatan hanya 1 file yg sedang aktif
+
+ >> Setiap menggunakan mode ini, kita bisa gabungkan Teknik searching go to 
+    anything dgn shortcut "Ctrl + P"

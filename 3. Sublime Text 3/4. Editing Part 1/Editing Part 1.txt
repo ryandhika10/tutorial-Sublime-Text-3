@@ -1,0 +1,33 @@
+ >> KOMENTAR <<
+
+
+ >> Wajib memberi komentar utk menjelaskan arti dari baris kode yg kita punya 
+    dan membantu satu tim utk memahami kode yg kita punya.
+
+ >> Memberikan komentar tiap-tiap bahasa pemrograman di sublime text 
+    menggunakan shortcut "Ctrl + /"
+
+ >> Fungsi lain dari komentar adalah utk menonaktifkan sebuah script supaya gk 
+    di eksekusi.
+
+
+ >> MULTIPLE CURSOR <<
+
+
+ >> Sublime text kita bisa memberi multiple cursor/lebih dari 1 kursor, dgn 
+    menekan tombol Ctrl, sambal di klik di tempat lain utk membuat multiple 
+    cursor
+
+ >> Utk membuat multiple cursor suatu kata yg sama utk di edit atau di hapus, 
+    kita bisa arahkan kursor ke tengah huruf dari kata tersebut, lalu tekan 
+    shortcut "Ctrl + d", maka otomatis kata yg sama akan di seleksi dan 
+    multiple cursor akan muncul di kata yg sama tersebut.
+
+ >> Shortcut "Ctrl + u" digunakan utk meng undo seleksi yg dilakukan ketika 
+    kita menekan tombol "Ctrl + d"
+
+ >> Tombol "Esc" digunakan utk mengembalikan multiple cursor menjadi single 
+    cursor
+
+ >> Shortcut "Alt + f3" digunakan utk menyeleksi semua kata yg sama secara 
+    sekaligus, caranya mirip seperti "Ctrl + d"

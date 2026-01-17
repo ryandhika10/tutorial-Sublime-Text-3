@@ -1,0 +1,30 @@
+ >> PACKAGE CONTROL <<
+
+
+ >> Sublime text memungkinkan kita utk membuat color scheme maupun snippet 
+    sendiri, untungnya ada orang yg membuat plugin khusus utk sublime text
+
+ >> Nama orangnya adalah Will Bond membuat sesuatu yg namanya package control, 
+    di dlmnya terdapat semua plugin sublime text terkumpul, sehingga kita 
+    cukup menginstall plugin yg ada lewat sublime text nya sendiri
+
+ >> Websitenya adalah wbond.net, Ketika kita klik link bertuliskan package 
+    control, akan muncul semua plugin sublime text.
+
+ >> Sebelum kita bisa menginstall pluginnya, kita install dulu package 
+    controlnya, caranya :  
+    
+    1. Kita buka packagecontrol.io 
+    
+    2. Pilih menu installation di sebelah kanan atas 
+
+    3. Buka command palette (Ctrl + Shift + P)
+
+    4. Ketik Install Package Control
+
+    5. Setelah sukses terinstall, ketik di command palette "Install package 
+       control"
+
+    6. Cari plugin dgn mengetikkan nama plugin sesuai yg kita inginkan
+
+ >> Shortcut "Ctrl + `", digunakan utk menampilkan console

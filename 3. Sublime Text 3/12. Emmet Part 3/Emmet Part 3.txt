@@ -1,0 +1,31 @@
+ >> MENGGUNAKAN EMMET DI CSS <<
+
+
+ >> Style CSS dan Emmetnya : 
+   
+    1. width: (value)px = w(value) lalu tekan tab, utk persen w(value)p
+
+    2. height: (value)px = h(value) lalu tekan tab, utk persen h(value)p
+
+    3. margin: (value)px = m(value) lalu tekan tab
+
+    4. margin: (value)px auto = m(value)-auto lalu tekan tab -> atas bawah 
+				value nya, kiri kanan auto
+
+    5. padding: (value)px (value)px (value)px (value)px = p(value)-(value)-
+							  (value)-(value)
+
+    6. color: #000(default) = c lalu tekan tab
+
+    7. background-color: #fff = bgc lalu tekan tab
+
+    8. color: #(value hexa) = c#(value hexa) lalu tekan tab
+
+    9. background-color: #(value hexa) = bgc#(value hexa) lalu tekan tab
+
+    10. vendor prefix dari border radius = -bdrs lalu tekan tab, "-" sebelum 
+					   menuliskan emmet digunakan utk 
+					   vendor prefix di setiap web 
+					   browser.
+
+    11. Pada saat menuliskan style, emmet akan melakukan fuzzy searching

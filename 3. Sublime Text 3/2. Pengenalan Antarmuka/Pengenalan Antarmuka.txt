@@ -1,0 +1,72 @@
+ >> PENGENALAN ANTARMUKA <<
+
+
+ >> Kalau ekstensi file HTML, memiliki beberapa warna teks :
+    
+    1. Warna merah merupakan warna tag HTML
+
+    2. Warna putih merupakan warna tulisan
+
+    3. Warna hijau merupakan warna atribut di tag HTML
+
+ >> Ini disebut fitur syntax highlighting.
+
+ >> Untuk file dgn ekstensi CSS, ketika kita memberi atribut pada tag, id atau 
+    class di HTML, maka ada fitur yg menawarkan beberapa styling di CSS.
+
+ >> Misalnya utk font styling, Ketika kita ketik "fo", maka ada beberapa opsi 
+    pilihan untuk styling font
+
+ >> Sublime text juga memiliki fitur fuzzy searching, dimana ketika kita 
+    ketikkan atribut dgn huruf tertentu, maka fitur fuzzy search akan 
+    mengeliminasi huruf yg tidak ada pada ketikkan kita. (Misal : di CSS ketik 
+    ff, maka hanya akan muncul font-family; baim, untuk background-image)
+
+ >> Selector tulisannya akan berwarna merah, sementara atribut akan berwarna 
+    biru
+
+
+ >> MEMBUKA FILE YG SUDAH ADA <<
+
+
+ >> Ketika kita close aplikasi sublime text, lalu membuka kembali aplikasi 
+    tersebut, otomatis aplikasi akan membuka file yg terakhir kita buka di 
+    sublime text.
+
+ >> Kalau ingin sublime text yg kita buka kosong, kita klik file > new window.
+
+ >> Cara pertama : 
+
+    >> Kalau ingin membuka file yg sudah ada, maka caranya kita buka sublime 
+       text, lalu klik file > klik Open folder > Pilih folder > klik select 
+       folder
+
+    >> Maka akan dibuatkan sidebar di sebelah kiri, memperlihatkan isi folder 
+       yg kita buka
+
+ >> Cara kedua : 
+
+    >> Buka folder yg akan kita masukkan ke sublime text, drag folder dan drop 
+       ke sublime text.
+
+
+ >> MEMBUAT FILE BARU <<
+
+
+ >> Ada 2 Cara :
+    
+    1. Klik File, lalu pilih new file
+
+    2. Di sidebar yg ada foldernya, klik kanan, lalu pilih new file
+
+
+ >> KUSTOM TAMPILAN SUBLIME TEXT << 
+
+
+ >> Kalau ingin hilangkan sidebar, klik view > sidebar > hide sidebar, atau 
+    gunakan syntax "Ctrl + K,B"
+
+ >> Kalau ingin hilangkan minimap, klik view > hide minimap
+
+ >> Kalau ingin hilangkan menu, klik view > hide menu, untuk mengembalikannya 
+    lagi, kita tekan "Alt" agar muncul sementara, lalu klik view > show menu.

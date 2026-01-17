@@ -1,0 +1,75 @@
+ >> CARA INSTALASI SUBLIME TEXT <<
+
+
+    1. Kunjungi Link : https://www.sublimetext.com/download
+
+       >> Sekarang (Tahun 2025), Sublime Text sudah di versi 4
+
+    2. Beberapa fitur alasan orang suka menggunakan Sublime Text : 
+       
+       >> GoTo Anything : Dari 1 file ke file lain berpindah dgn cepat
+
+       >> Multiple Selection : Bisa menyeleksi beberapa bagian di 1 halaman 
+	  sekaligus
+
+       >> Command Palette
+
+       >> Distraction Free Mode
+
+    3. Pilih tulisan link tergantung system operasi yg digunakan. Sublime text 
+       3 dibuat menggunakan python versi 3
+
+    4. Sublime text adalah software berbayar, namun kita bisa gunakan dgn 
+       bebas, hanya bedanya di aplikasi ada tulisan unregistered, dan setiap 
+       save, maka akan muncul notifikasi membeli software. Namun fungsi tetap 
+       sama
+
+    5. Setelah download, buka file dgn ekstensi .exe lalu tinggal next-next 
+       hingga proses instalasi selesai.
+
+    6. Setelah instalasi selesai, maka kita bisa buka sublime text nya
+
+
+ >> ISI DARI SUBLIME TEXT <<
+
+
+ >> Di atas, ada bar untuk tombol navigasi
+
+ >> Di kanan ada kotak kecil, disebutnya minimap, sangat membantu ketika 
+    source code kita sangat banyak
+
+ >> Biasakan ketika membuka file baru, selalu save file nya dulu dgn ekstensi 
+    file yg akan kita buat kodenya (missal: .html, .css, .js)
+
+ >> Ketika kita save dgn ekstensi tertentu (contoh: .html), maka di kanan 
+    bawah aplikasi akan berubah tulisannya menjadi HTML, yg sebelumnya 
+    tertulis Plain Text
+
+ >> Kalau kita klik tulisan di kanan bawah, maka akan muncul beberapa bahasa 
+    pemrograman yg bisa digunakan di sublime text
+
+ >> Ketika kita tulis tag html, maka tulisan akan berubah warna. Ini yang 
+    disebut syntax highlighting.
+
+ >> Untuk penutup tag, tinggal kita ketik "</", secara otomatis sublime text 
+    akan mengetahui kita ingin menutup tag apa.
+
+ >> Kita juga bisa hanya dgn mengetik html, lalu tekan "tab" di keyboard, 
+    otomatis sublime akan memberikan format tag html secara lengkap, mulai 
+    dari tag head hingga body.
+
+ >> Kursor juga otomatis akan berada di dlm tag title, Ketika kita selesai 
+    ketik isi dari title, lalu tekan "tab", maka kursor otomatis akan mengarah 
+    ke body
+
+ >> Ketika kita membuat tag h1, maka kita ketik h1, lalu tekan "tab", otomatis 
+    tag pembuka dan penutup h1 akan dibuatkan. Ini yg dinamakan auto 
+    completion
+
+ >> Ketika kita ingin membuat tulisan lorem, maka kita tinggal ketik lorem, 
+    kemudian tekan "tab", maka otomatis akan dibuatkan teks lorem ipsum
+
+ >> Untuk menyimpan file yg sudah kita buat, cukup tekan Ctrl + S.
+
+ >> Untuk menjalankannya, kita klik kanan, lalu pilih open in browser. Maka 
+    akan muncul hasil kodingan kita di web browser.

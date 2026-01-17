@@ -1,0 +1,36 @@
+ >> COMMAND PALETTE <<
+
+
+ >> Command Palette = Fasilitas di sublime text utk mempermudah mengakses menu 
+		      navigasi di aplikasi sublime text
+
+ >> Ctrl + shift + p = Shortcut yg digunakan utk menampilkan command palette
+
+ >> Command Palette menyesuaikan menu-menunya dgn bahasa pemrograman yg 
+    digunakan
+
+ >> Esc = Digunakan utk menghilangkan command palette ketika terbuka
+
+ >> Command Palette menggunakan fuzzy searching, jadi kita tidak perlu 
+    menuliskan 1 kalimat utk mencari menu yg kita inginkan, cukup 1 kata/huruf 
+    yg berada di kata itu saja
+
+ >> Penggunaan dari command palette : 
+
+    1. Bisa utk membuat 1 tulisan/syntax menjadi uppercase maupun 
+       lowercase
+    
+    2. Membantu dlm membuat satu kata otomatis di dlm syntax sesuai dgn 
+       bahasa pemrograman yg digunakan
+
+    3. Bisa memunculkan atau menghilangkan minimap
+
+    4. Bisa memunculkan atau menghilangkan menu
+
+    5. Utk mengatahui snippet apa saja di suatu bahasa pemrograman
+
+ >> Snippet = Baris kode yg sudah dibuatkan oleh sublime text, tinggal kita
+	      panggil menggunakan keyword tertentu
+
+ >> Kita juga bisa menginstall plugin ke dlm sublime text menggunakan command 
+    palette

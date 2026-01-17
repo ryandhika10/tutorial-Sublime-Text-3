@@ -1,0 +1,39 @@
+ >> MEMBUAT SENDIRI SNIPPET PADA KODE KITA << 
+
+
+ >> Caranya adalah : 
+
+    1. Klik menu tools
+
+    2. Klik opsi Developer, lalu new snippet
+
+    3. Sublime text akan menampilkan template penulisan snippet
+
+    4. Dlm tag "content", kita bisa ubah isinya sesuai apa yg kita mau
+
+    5. Tag "tab trigger" digunakan utk membuat teks apa yg akan menjadi 
+       trigger utk memunculkan tag "content"
+
+    6. Jika sudah, kita save, lalu nanti kita di arahkan utk menyimpan file 
+       tersebut ke dlm sublime text > package > user, jgn diganti-ganti
+
+    7. Samakan nama file dgn isi dari tag "tab trigger", lalu ekstensinya 
+       ".sublime-snippet"
+
+ >> Kita juga bisa menambahkan tab stop, digunakan utk posisi kursor berhenti, 
+    dgn menambahkan $, diikuti dgn angka yg mewakili urutan kursor berhenti di 
+    dlm isi syntax tag "content"
+
+ >> Kita juga bisa menambahkan nilai default ketika melakukan tab stop, maka 
+    kata akan menjadi nilai default dan akan di seleksi, dgn menambahkan 
+    "${(urutan angka):(nilai default)}". Misal : ${1:Ryan} ${2:Dhika}.
+
+ >> Tag "scope" yg defaultnya komentar, klo tidak di isi akan berfungsi di 
+    semua bahasa pemrograman
+
+ >> Utk HTML, tag scopenya diisi text.html
+
+ >> Utk membuat snippet yg menampilkan php yg menggunakan key "$" di dlmnya, 
+    karena snippet mengira "$" itu tab stop, maka yg perlu dilakukan adalah 
+    tambahkan "\" sebelum mengetikkan "$" utk mencetaknya sebagai string 
+    dolar, bukan tab stop

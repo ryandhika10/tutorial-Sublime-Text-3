@@ -1,0 +1,31 @@
+ >> Emmet = Plugin sublime text utk meningkatkan workflow pada saat ngoding 
+	    HTML dan CSS
+
+ >> Websitenya : Emmet.io
+
+ >> Cara installasi nya : 
+
+    1. Buka Command Palette(Ctrl + Shift + P)
+
+    2. Ketikkan install package
+
+    3. Setelah muncul package control, ketikkan emmet
+
+    4. Klik tulisan Emmet
+
+ >> Cara menggunakan emmet utk HTML : 
+
+    1. "!" lalu tekan "tab", akan otomatis memunculkan syntax lengkap template 
+       html (ada tag html, head, body)
+
+    2. Dgn Emmet, kita bisa meringkas syntax yg seperti di kodingan dgn :
+       Ketikkan ".container>(.header>ul.nav>li*4>a{Link $})+(.main>h2{Judul 
+       Artikel}+p>lorem20)"
+
+ >> Kegunaan Emmet : 
+
+    1. Menyingkat HTML / HTML Abbreviation
+
+    2. Menyingkat CSS
+
+    3. Lainnya

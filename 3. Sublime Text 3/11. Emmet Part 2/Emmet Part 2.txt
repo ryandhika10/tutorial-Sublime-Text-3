@@ -1,0 +1,51 @@
+ >> Syntax/Keyword yg harus diketahui dlm membuat emmet: 
+
+    1. ">" = Digunakan utk menyimpan tag di dlm tag lain
+	     Contoh : div>p>span, lalu tekan tab -> membuat tag div yg di dlm 
+		      nya ada tag p dan di dlm tag p ada tag span
+
+    2. ".(nama kelas)" = Digunakan utk membuat tag div atau tag span, jika 
+			 penulisannya berada di dlm tag dgn elemen inline-
+			 block
+			 Contoh : .container -> membuat tag div atau 
+			 	  p>.tulisan -> membuat tag span
+
+    3. "+" = Digunakan utk membuat elemen sejajar, bukan anaknya atau di dlm 
+	     tag lainnya
+	     Contoh : div>p+a -> membuat tag div yg di dlm nya ada tag p dan 
+		      tag a
+
+    4. "*(angka)" = Digunakan utk membuat perulangan sebanyak angka yg 
+		    dituliskan
+		    Contoh : ul>li*10 -> membuat tag ul yg di dlmnya ada tag 
+			     li sebanyak 10 kali
+
+    5. "()" = Digunakan utk melakukan grouping
+	      Contoh : .container>(.header>ul>li*4)+(.main>h2) -> Membuat tag 
+		       div dgn class container yg di dlmnya ada tag div dgn 
+		       class header yg di dlm tag div tersebut ada tag ul, di 
+		       dlm tag ul ada tag li sebanyak 4 kali. dimana tag div 
+		       dgn class header sejajar dgn tag div dgn class main yg 
+		       di dlmnya ada tag h2
+
+    6. "{}" = Digunakan utk memberi string/teks di dlm tag
+	      Contoh : p>{hello world} -> membuat tag p yg di dlmnya terdapat 
+		       teks hello world
+
+    7. "$" = Digunakan utk membuat urutan angka
+	     Contoh : ul>li*10>{Item $} -> membuat tag ul yg di dlmnya 
+		      terdapat tag li sebanyak 10 kali, tiap li di dlmnya 
+		      memiliki teks Item disertai dgn angka dari 1 sampai 10
+
+    8. "lorem" = Digunakan utk membuat tulisan random sebanyak 40 kata, kalau 
+		 ingin lebih banyak kita tambahkan jumlah kata nya dgn angka 
+		 setelah penulisan lorem
+		 Contoh : p*4>lorem10 -> membuat tag p sebanyak 4 kali yg 
+			  masing-masing di dlmnya terdapat tulisan random 
+			  sebanyak 10 kata
+
+
+ >> TEST MEMBUAT SYNTAX MENGGUNAKAN EMMET << 
+
+
+ >> Buat syntax yg ada di file coba di dlm folder Kodingan menggunakan Emmet!

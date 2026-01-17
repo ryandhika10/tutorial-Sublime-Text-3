@@ -1,0 +1,40 @@
+ >> KUSTOMISASI TEMA SUBLIME TEXT <<
+
+
+ >> Ganti tema keseluruhan dari sublime text : 
+
+    1. Cari dulu di packagecontrol.io dgn menulis theme pada kolom pencarian
+
+    2. Klik menu popularity utk melihat tema apa yg sedang popular
+
+    3. Pilih 2 opsi teratas utk di install di sublime text kita
+
+ >> Utk mengaktifkan tema, caranya ada di web packagecontrol.io tinggal klik 
+    theme yg kita sudah install di sublime text, scroll ke bawah hingga ketemu 
+    tulisan activate the theme, ikuti langka untuk menerapkan tema
+
+ >> Cara mengaktifkan tema : 
+
+    1. Klik menu Preferences
+
+    2. Klik menu Settings, akan muncul window baru dgn 2 tab
+
+    3. Tambahkan atau ubah tema pada baris "theme" di tab sebelah kanan, lalu 
+       simpan perubahan
+
+ >> Tema trend sekarang (2025) : 1. Material Theme, 2. Theme-Soda
+
+ >> Themr = Plugin utk manajemen tema
+
+ >> Install themr terlebih dahulu
+
+ >> Cara melihat daftar tema menggunakan Themr : 
+
+    1. Gunakan command palette (Ctrl + Shift + P)
+
+    2. Ketik Themr
+
+    3. Pilih opsi List Themes
+
+    4. Akan muncul opsi2 tema yg sudah kita install, pilih tema sesuai 
+       keinginan

@@ -1,0 +1,42 @@
+ >> PLUGIN UTK MEMPERCEPAT PEMBUATAN FILE DAN FOLDER <<
+
+
+ >> Nama plugin nya adalah sidebar enhancements, menambah opsi menu folder di 
+    sidebar sublime text
+
+ >> Penggunaan plugin sidebar enhancements utk membuat file baru :
+
+    1. Klik kanan pada folder di sidebar
+
+    2. Pilih opsi kedua dari new file
+
+    3. Akan muncul kolom utk diisikan nama file beserta ekstensinya
+
+    4. Isi nama file beserta ekstensinya, setelah itu tekan enter
+
+    5. Otomatis akan muncul di tab baru nama file yg kita buat beserta 
+       ekstensi yg digunakan
+
+ >> Penggunaan plugin sidebar enhancements utk membuat folder sekaligus file 
+    baru :
+
+    1. Ikuti tahapan membuat file baru, hingga di tahap ke 3
+
+    2. Isi nama folder, tambahkan "/", lalu isi nama file beserta ekstensinya
+       Contoh : css/style.css
+
+    3. Tekan tombol enter 
+
+    4. Sidebar enhancements akan mengecek folder sudah ada atau belum, kalau 
+       belum ada otomatis akan dibuatkan folder dgn nama yg kita tuliskan
+
+ >> Plugin utk merapihkan kode program dimana simbol "=", ":" atau "=>" yg 
+    biasanya ada di php, css maupun javascript dapat disejajarkan dgn plugin 
+    ini
+
+ >> Nama pluginnya adalah Alignment, install terlebih dahulu
+
+ >> Penggunaannya adalah dgn cara memblock semua syntax yg ingin disejajarkan 
+    symbol "=" ataupun "=>", lalu tekan shortcut "Ctrl + Alt + A"
+
+ >> Secara otomatis langsung sejajar

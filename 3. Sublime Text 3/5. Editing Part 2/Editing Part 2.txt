@@ -1,0 +1,20 @@
+ >> MEMPERMUDAH DLM COPY, PASTE, CUT, DLL <<
+
+
+ >> Cara melakukan copy paste dgn cepat : 
+    
+    1. Kita tulis syntax apa yg ingin kita copy paste utk baris pertama
+
+    2. Arahkan kursor di baris syntax yg ingin kita salin.
+
+    3. Tekan shortcut "Ctrl + Shift + d", digunakan utk menduplikat suatu baris
+
+ >> Shortcut "Ctrl + Shift + K", digunakan utk menghapus/meng undo satu baris
+
+ >> Shortcut "Ctrl + Shift + Arrow atas/bawah", digunakan utk memindahkan baris 
+    syntax ke atas maupun bawah
+
+ >> Shortcut utk merapihkan indentasi lebih dari 1 baris, caranya adalah kita 
+    block semua baris yg ingin diperbaiki indentasinya, lalu tekan "tab" atau 
+    "ctrl + ]" utk membuat indentasi ke kanan, dan "shift + tab" atau "ctrl + [" 
+    utk membuat indentasi ke kiri.

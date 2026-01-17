@@ -1,0 +1,20 @@
+ >> Go To Anything = Fitur yg memungkinkan kita berpindah-pindah file dgn sangat 
+		     cepat
+
+ >> Shortcut "Ctrl + p", digunakan utk menampilkan fitur Go To Anything, dgn 
+    menekan shortcut tersebut, sublime text akan menampilkan semua file yg ada 
+    di folder sidebar
+
+ >> Go To Anything juga menerapkan fuzzy searching, cara mencari filenya adalah 
+    dgn mengetikkan nama folder, kemudian nama file yg ada di dlm folder 
+    tersebut.
+
+ >> Go To Anything juga bisa mencari class/method/function dgn menambahkan "@" 
+    sebelum mengetikkan nama class/method/function
+
+ >> Go To Anything juga bisa mencari file sekaligus class/method/function yg ada 
+    di file tersebut dgn mengetikkan nama file, diikuti dgn "@", lalu ketikkan 
+    nama class/method/function nya.
+
+ >> Go To Anything juga bisa melakukan pindah baris di dlm file dgn menambahkan 
+    ":", sebelum menuliskan nomor baris berapa kita ingin pindahkan kursornya

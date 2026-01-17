@@ -1,0 +1,21 @@
+ >> KONFIGURASI <<
+
+
+ >> Shortcut mengatur ukuran huruf = "ctrl +" memperbesar, "ctrl -" memperkecil
+
+ >> Mengatur skema warna : 
+
+    1. Klik menu preferences
+
+    2. Pilih opsi Select Color Scheme : Mengganti tema dari warna yg ada di 
+       sublime text
+
+    3. Pilih salah satu opsi skema warna sesuai keinginan
+
+ >> Perubahan yg kita lakukan disimpan pada Settings, ketika di klik akan muncul 
+    window baru dgn 2 tab, tab kiri utk default dari sublime text, tab kanan 
+    setting untuk konfigurasi kita.
+
+ >> Kita bisa konfigurasi sesuai yg kita inginkan dgn mengcopy baris kode yg 
+    kiri, pindahkan ke kanan, lalu ubah value nya (Misal : ubah font padding top 
+    dan bottom), kemudian di simpan.

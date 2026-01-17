@@ -1,0 +1,469 @@
+ >> FITUR SUBLIME TEXT <<
+
+
+    1. Terdapat opsi menu di paling atas
+
+    2. Minimap berbentuk kotak kecil di sebelah kanan atas
+
+    3. Bahasa pemrograman yg digunakan tertulis di sebelah kanan bawah sesuai 
+       dgn ekstensi file yg dibuka. Defaultnya adalah Plain Text
+
+    4. Syntax Highlighting akan muncul ketika bahasa pemrograman tertentu 
+       terdeteksi
+
+    5. Biasakan simpan terlebih dahulu file yg kita buat dgn ekstensi tertentu 
+       sesuai yg kita butuhkan sebelum mengetikkan kode
+
+    6. Auto complete sudah tersedia, namun fiturnya masih belum lengkap
+
+    7. Utk menjalankan syntax kita di browser, klik kanan pada file, lalu 
+       pilih opsi "Open in Browser"
+
+    8. Ketika kita memberi atribut di CSS, ada fitur yg menawarkan opsi2 
+       styling
+
+    9. Fuzzy Searching = Pencarian yg mengeliminasi opsi Ketika huruf yg 
+			 ditulis tidak ada pada suatu kata
+			 Contoh : Ketika ketik ff di CSS, akan muncul opsi 
+				  font-family
+
+    10. Sublime text akan membuka file terakhir yg kita buka ketika kita 
+	membuka aplikasi sublime text
+
+    11. Command Palette = Mempermudah mengakses menu navigasi di sublime text
+
+    12. Snippet = Baris kode yg sudah dibuatkan oleh sublime text, tinggal 
+		  kita panggil menggunakan keyword tertentu
+
+    13. Go To Anything = Fitur yg memungkinkan kita berpindah-pindah file dgn 
+			 sangat cepat
+
+
+ >> SHORTCUT SUBLIME TEXT <<
+
+
+    1. Ctrl + S = Utk menyimpan file yg sudah kita buat.
+
+    2. Ctrl + Shift + N = Utk membuka window baru di sublime text yg masih 
+			  kosong
+
+    3. Ctrl + K, B = Utk menampilkan dan menghilangkan sidebar
+
+    4. Ctrl + + = Utk memperbesar ukuran huruf
+
+    5. Ctrl + - = Utk memperkecil ukuran huruf
+
+    6. Ctrl + / = Utk memberi komentar
+
+    7. Ctrl + D = Utk menyeleksi kata yg sama, ketika kursor berada di tengah 
+		  huruf dari suatu kata
+
+    8. Ctrl + U = Utk membatalkan seleksi kata saat melakukan seleksi kata dgn 
+		  shortcut "Ctrl + D"
+
+    9. Esc = Utk mengembalikan multiple cursor, utk keluar dari opsi command 
+	     palette, 
+
+    10. Alt + F3 = Utk menyeleksi semua kata yg sama sekaligus, caranya mirip 
+		   "Ctrl + D"
+
+    11. Ctrl + Shift + D = Utk menduplikat suatu baris syntax Ketika cursor 
+			   berada di suatu baris
+
+    12. Ctrl + Shift + K = Utk mengundo/menghapus satu baris duplikasi yg 
+			   dilakukan
+
+    13. Ctrl + Shift + Arrow Up/Down = Utk memindahkan baris syntax ke atas 
+				       dan Bawah
+
+    14. Tab atau Ctrl + ] = Utk membuat indentasi ke kanan Ketika baris syntax 
+			    di block/seleksi
+
+    15. Shift + Tab atau Ctrl + [ = Utk membuat indentasi ke kiri ketika baris
+				    syntax di block/seleksi
+
+    16. Ctrl + Shift + P = Utk membuka command palette
+
+    17. Ctrl + P = Utk membuka go to anything yg menampilkan semua file yg ada 
+		   di folder sidebar
+
+    18. Ctrl + ` = Utk menampilkan console
+
+    19. Ctrl + Shift + C = Utk menampilkan fitur color picker yg sudah 
+			   di install
+
+    20. Ctrl + Alt + A = Utk menggunakan plugin alignment setelah memblock 
+			semua syntax yg memiliki symbol ":", "=>", "=" agar di 
+			sejajarkan
+
+    21. Ctrl + Tab = Utk berpindah antar tab yg terbuka di sublime text
+
+    22. Alt + Shift + (1-4) : Mengubah tampilan menjadi 1 hingga 4 kolom
+
+    23. Alt + Shift + 5 : Mengubah tampilan dibagi menjadi 4/ Grid (2 baris 
+			  dan 2 kolom)
+
+    24. Alt + Shift + (8-9) : Mengubah tampilan menjadi 2 hingga 3 baris
+
+    25. Ctrl + Shift + Angka = Memindahkan file ke layout baru, angka mewakili
+			       urutan layout dari kiri ke kanan dan atas ke 
+			       bawah
+
+    26. Ctrl  + Angka = Memindahkan posisi kursor ke layout lain, angka 
+			mewakili urutan layout dari kiri ke nana dan atas ke 
+			bawah
+
+
+  >> MENGATUR SKEMA WARNA <<
+
+
+ >> Cara mengatur skema warna : 
+
+    1. Klik menu Preferences
+
+    2. Pilih opsi Select Color Scheme
+
+    3. Pilih opsi skema warna sesuai keinginan
+
+ >> Perubahan skema warna akan tersimpan di opsi Settings pada menu 
+    Preferences, ketika opsi tersebut di klik, akan muncul window baru dgn 2 
+    kolom dan 2 tab, di sebelah kanan merupakan setting utk konfigurasi yg 
+    kita lakukan
+
+ >> Copy baris kode di sebelah kiri pindahkan ke kanan, lalu ubah value nya 
+    utk melakukan konfigurasi, kemudian disimpan untuk menerapkannya
+    Misal : ubah font padding top dan bottom dgn value 4px
+
+
+ >> MULTIPLE CURSOR <<
+
+
+ >> Cara membuat multiple cursor = Tahan Ctrl, sambal klik tempat lain utk 
+				   membuat multiple cursor
+
+
+ >> COMMAND PALETTE <<
+
+
+ >> Command palette menyesuaikan opsi sesuai bahasa pemrograman yg digunakan
+
+ >> Command palette menggunakan fuzzy searching
+
+ >> Fungsi command palette : 
+
+    1. Membuat 1 tulisan menjadi uppercase maupun lowercase
+
+    2. Membantu membuat satu kata otomatis di dlm syntax sesuai Bahasa 
+       pemrograman yg digunakan
+
+    3. Menampilkan dan menghilangkan minimap
+
+    4. Menampilkan dan menghilangkan menu
+
+    5. Menampilkan snippet apa saja yg ada di bahasa pemrograman tertentu
+
+    6. Menginstall plugin ke dlm sublime text
+
+
+ >> GO TO ANYTHING <<
+
+
+ >> Go To Anything menggunakan fuzzy searching
+
+ >> @ = Digunakan sebelum mengetikkan nama class/method/function pada go to 
+	anything utk mencari class/method/function
+
+ >> : = Digunakan sebelum mengetikkan nomor baris pada go to anything utk 
+	mencari baris berapa kita ingin pindahkan cursor nya
+
+ >> Go to anything dapat mencari file sekaligus class/method/function yg ada 
+    di file yg kita cari dgn menuliskan nama file, diikuti dgn "@", lalu 
+    setelahnya ketikkan nama class/method/function nya.
+
+
+ >> PACKAGE CONTROL <<
+
+
+ >> Package control = Manajer paket yg mengumpulkan semua plugin di sublime 
+		      text, sehingga kita cukup menginstal plugin yg ada 
+		      melalui package control di sublime text
+
+ >> Install package control : 
+
+    1. Buka website : packagecontrol.io
+
+    2. Pilih menu installation di sebelah kanan atas, utk melihat instruksi 
+       instalasinya
+
+    3. Buka command palette
+
+    4. Ketik Install Package Control
+
+    5. Setelah sukses terinstall, ketik di command palette "Install package 
+       control"
+
+    6. Cari plugin dgn mengetikkan nama plugin sesuai yg kita inginkan
+
+
+ >> MEMBUAT SNIPPET SENDIRI <<
+
+
+ >> Cara membuat snippet sendiri : 
+
+    1. Klik menu Tools
+
+    2. Klik opsi Developer, lalu pilih opsi New Snippet
+
+    3. Sublime text akan menampilkan template penulisan snippet
+
+    4. Dlm tag "content", kita bisa ubah isinya sesuai apa yg kita mau
+
+    5. Tag "tabTrigger" digunakan utk membuat teks apa yg akan menjadi 
+       pemicu utk memunculkan tag "content"
+
+    6. Jika sudah, kita save
+
+    7. Samakan nama file dgn isi dari tag "tabTrigger", lalu ekstensinya 
+       ".sublime-snippet"
+
+ >> Tab stop = fitur utk membuat kursor berada di posisi tertentu
+
+ >> Penulisan tab stop = $(urutan angka)(isi konten)
+    			 Contoh : $1Hello $2World
+
+ >> Penulisan tab stop dgn nilai default = ${(urutan angka):(isi konten/nilai 
+					   default)}
+    					   Contoh : ${1:Hello} ${2:World}
+
+ >> Scope yg defaultnya komentar seperti tabTrigger, kalau scope tidak di 
+    apa2in, maka snippet yg dibuat akan berfungsi di semua bahasa pemrograman
+
+ >> Beberapa scope yg ada di snippet : 
+
+    1. HTML = text.html
+
+    2. CSS = source.css
+
+    3. JavaScript = source.js
+
+    4. JSON = source.json
+
+    5. PHP = source.php
+
+    6. Python = source.python
+
+    7. Java = source.java
+
+    8. C# = source.cs
+
+    9. SQL = source.sql
+
+    10. TypeScript = source.ts
+
+ >> Penulisan penggunaan "$" utk membuat snippet dgn bahasa pemrograman PHP : 
+    Tambahkan "\" sebelum mengetikkan "$" utk mencetaknya sebagai string 
+    dollar, bukan tab stop
+    Contoh : <?= \$$1; ?>
+
+
+ >> PLUGIN YG BISA DIINSTAL DI PACKAGE CONTROL <<
+
+
+ >> Emmet = Utk meningkatkan workflow pada saat ngoding HTML dan CSS
+
+    => Emmet akan melakukan fuzzy searching ketika kita menulis style di CSS
+
+    => Installnya -> Command Palette > Ketik Install Package > Di package 
+		     control, ketik emmet > Pilih opsi Emmet
+
+    => Syntax/Keyword Emmet :
+
+       1. ! + Tab = Memunculkan semua syntax lengkap template html
+
+       2. > = Utk menyimpantag di dlm tag lain
+
+	      => Contoh : div>p, lalu tekan tab -> Membuat tag div yg di 
+			  			   dlmnya ada tag p
+
+       3. .(nama kelas) = Utk membuat tag div
+
+			  => Jika ditulis di dlm tag dgn elemen inline-block, 
+			     tagnya akan menjadi span
+
+			  => Contoh (1) : .container -> Membuat tag div
+
+			  => Contoh (2) : p>.tulisan -> Membuat tag span di 
+							dlm tag p
+
+       4. + = Utk membuat elemen tag sejajar, bukan anak atau berada di dlm 
+	      tag lain
+
+	      => Contoh : div>p+a -> Membuat tag div yg di dlmnya ada tag p 
+				     dan tag a yg sejajar
+
+       5. *(angka) = Utk membuat perulangan sebanyak angka yg diinputkan
+
+		     => Contoh : ul>li*10 -> Membuat tag ul yg di dlmnya ada 
+					     tag li sebanyak 10 kali
+
+       6. () = Utk melakukan grouping agar sejajar dgn tag yg di grouping 
+	       lainnya
+
+	       => Contoh : .container>(.header>ul>li*4)+(.main>h2) 
+
+			   -> Membuat tag div dgn class container yg di dlmnya 
+			      ada tag div dgn class header yg di dlm tag div 
+			      tersebut ada tag ul, di dlm tag ul ada tag li 
+			      sebanyak 4 kali. dimana tag div dgn class header 
+			      sejajar dgn tag div dgn class main yg di dlmnya 
+			      ada tag h2
+
+       7. {} = Utk memberi string/teks di dlm tag
+
+	       => Contoh : p>{hello world} -> Membuat tag p yg di dlmnya ada 
+					      teks hello world
+
+       8. $ = Utk membuat urutan angka ketika perulangan dilakukan
+
+	      => Contoh : ul>li*10>{Item $} 
+
+			  -> Membuat tag ul yg di dlmnya ada tag li sebanyak 
+			     10 kali dimana di dlm tag li memiliki teks item 
+			     dan urutan angka dari 1-10
+
+       9. lorem = Utk membuat tulisan random sebanyak 40 kata
+		  
+		  => Bisa di atur jumlah katanya ketika kita menuliskan angka 
+		     yg mewakili jumlah kata setelah lorem ditulis
+
+    => Penerapan Emmet di CSS : 
+
+       1. width: (value)px = w(value), utk persen w(value)p
+
+       2. height: (value)px = h(value), utk persen h(value)p
+
+       3. margin: (value)px = m(value)
+
+       4. margin: (value)px auto = m(value)-auto 
+	  
+	  => Margin atas bawah value nya, kiri kanan auto
+
+       5. padding: (value)px (value)px (value)px (value)px = p(value)-(value)-
+							     (value)-(value)
+
+       6. color: #000(default) = c
+
+       7. background-color: #fff = bgc
+
+       8. color: #(value hexa) = c#(value hexa)
+
+       9. background-color: #(value hexa) = bgc#(value hexa)
+
+       10. vendor prefix dari border radius = -bdrs
+
+	   => Simbol "-" yg ditulis sebelum menuliskan emmet digunakan utk 
+	      vendor prefix di setiap web browser.
+
+ >> Color Picker = Fitur utk memilih warna
+
+    => Penerapannya -> Tekan shortcut "Ctrl + Shift + C" > Pilih warna sesuai 
+		       yg diinginkan
+
+    => Ubah default uppercase :
+
+       -> Klik Preferences > Klik Package Setting > Klik Color Picker > Klik 
+	  Settings-Default dan Settings-User > Copy "color_upper_case": true 
+	  dari tab Colorpicker, dan Paste ke tab User > Ubah value nya jadi 
+	  false > Save
+
+ >> Color Highlighter = Utk membuat tulisan hexa memiliki warna background 
+			sesuai kode hexanya
+
+ >> Sidebar Enhancement = Menambah opsi lebih lengkap ketika klik kanan 
+			  pada folder di sidebar
+
+    => Membuat file baru :
+
+       -> Klik kanan pada folder di sidebar > Klik New File yg kedua > Muncul 
+          kolom di bagian bawah > Isi nama file dan ekstensinya > Tekan Enter
+
+          => Otomatis dibuat file baru dgn nama dan ekstensi file yg kita 
+	     tulis
+
+    => Membuat file dan folder baru sekaligus : 
+
+       -> Klik kanan pada folder di sidebar > Klik New File yg kedua > Muncul 
+          kolom di bagian bawah > Isi nama folder, tambahkan "/", lalu isi 
+	  nama file dan ekstensinya > Tekan Enter
+
+	  => Sidebar enhancements akan mengecek folder sudah ada atau belum, 
+	     kalau belum ada, otomatis akan dibuatkan folder dgn nama yg kita 
+	     tulis
+
+ >> Alignment = Utk merapihkan kode program dimana symbol "=", ":" atau 
+		"=>" akan disejajarkan posisinya
+
+    => Penerapannya -> Block semua syntax yg ada symbol "=", ":" ataupun 
+		       "=>" > Tekan shortcut "Ctrl + Alt + A"
+
+ >> Material Theme = Tema Populer 2025
+
+ >> Theme-Soda = Tema Populer kedua 2025
+
+ >> Themr = Memudahkan dlm mencari dan menerapkan tema
+
+    => Penerapannya -> Buka command palette > Ketik Themr > Pilih opsi List 
+		       Themes > Pilih tema
+
+
+ >> KONFIGURASI LINGKUNGAN SUBLIME TEXT <<
+
+
+ >> Membuat multiple layout : 
+
+    1. Klik menu View
+
+    2. Klik menu Layout
+
+    3. Pilih berapa kolom/baris yg ingin dibuat
+
+    4. Drag and drop tab ke kolom kedua utk menampilkan tab tersebut
+
+ >> Membuat multiple layout 2 kolom dan di kolom ke 2 terbagi lagi jadi 2 
+    baris : 
+
+    1. Ikuti cara sebelumnya sampai tahap ke 2
+
+    2. Pilih opsi 2 kolom
+
+    3. Klik menu View kembali
+
+    4. Klik menu Groups
+
+    5. Pilih Max Columns: 2
+
+    6. Ke menu Groups lagi, dan pilih New Group
+
+
+ >> KUSTOMISASI TEMA SUBLIME TEXT <<
+
+
+ >> Cara mencari tema popular di web packagecontrol.io : 
+
+    1. Di search engine website packagecontrol.io, ketik theme
+
+    2. Klik menu popularity utk melihat tema apa yg sedang popular
+
+    3. Pilih 2 opsi teratas utk di install di sublime text kita
+
+ >> Cara menggunakan tema : 
+
+    1. Klik menu Preferences
+
+    2. Klik menu Settings, akan muncul window baru dgn 2 tab
+
+    3. Ubah tema pada baris "theme" di tab sebelah kanan, lalu 
+       simpan perubahan
+
+    4. Nama tema berada di packagecontrol.io Ketika kita klik tema yg mau 
+       diinstal, scroll ke Bawah hingga menemukan tulisan "Activate the theme"

@@ -1,0 +1,35 @@
+ >> PLUGIN BERHUBUNGAN DGN WARNA DI CSS <<
+
+
+ >> Ada beberapa cara utk mengganti warna : tulis nama warna, tulis 6 digit 
+    hexa
+
+ >> Karena terlalu banyak hexa warna, sulit utk dihafal, ada plugin yg 
+    memudahkan kita memilih warna, namanya adalah Color Picker
+
+ >> Install terlebih dahulu plugin color picker dan utk menggunakannya kita 
+    gunakan shortcut "Ctrl + Shift + c", pilih warna sesuai yg kamu inginkan
+
+ >> Utk hasil hexa menggunakan color picker, hurufnya uppercase semua. 
+
+ >> Mengubah default setting color picker : 
+
+    1. Klik menu preferences 
+
+    2. Pilih Package Settings
+
+    3. Klik Color Picker
+
+    4. Buka yg Settings - Default dan Settings - User
+
+    5. Copas mana yg ingin dirubah dari Settings - Default ke Settings - User
+
+    6. Ubah value nya, lalu simpan
+
+ >> Plugin lainnya mengenai warna digunakan utk mengingat kembali warna, 
+    khususnya warna hexa
+
+ >> Nama pluginnya adalah color highlight, silahkan install di package control
+
+ >> Setelah di install, hexa akan memiliki warna highlight sesuai dgn kode 
+    hexa nya
